@@ -339,6 +339,12 @@
                     ]
                   },
                   {
+                    "title": "Custom Metric Chart Page",
+                    "urls": [
+                      "/cockroachcloud/custom-metric-chart-page.html"
+                    ]
+                  },
+                  {
                     "title": "SQL Activity Page",
                         "items": [
                             {
